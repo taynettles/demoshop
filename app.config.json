@@ -1,0 +1,17 @@
+{
+   "locales": [
+      {
+         "locale": "en",
+         "displayName": "en",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": "en",
+         "crystallizePriceVariant": "default"
+      }
+   ],
+   "paymentProviders": [
+      "stripe",
+      "mollie",
+      "klarna",
+      "vipps"
+   ]
+}
